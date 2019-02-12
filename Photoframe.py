@@ -9,4 +9,4 @@ pyautogui.click(612, 606)
 
 for i in range(0, 1):
     # 
-    pyautogui.typewrite('j',10)
+    pyautogui.typewrite('j',10) # Second argument is in seconds
